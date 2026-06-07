@@ -7,6 +7,7 @@ This is from feature-1 branch
 
 added new branch again feature-1
 
-=> This is the new code added on 07.06.2026 from the main branch
+
+=> This is the new code added from feature-1 on 07.06.2026. Changes done by Developer 1
 
 => This is the new code added from feature2- branch on 07.06.2026. Request to merge with the main branch - Developer2
